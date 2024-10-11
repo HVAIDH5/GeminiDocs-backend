@@ -43,4 +43,4 @@ To get started with Gemini Docs, follow the installation instructions below.
     ```
 
 ## Usage
-Once the application is running, you can interact with the document management system via the provided API endpoints or UI (if applicable). Features like document summarization, Q&A, and search capabilities will be available based on the inputs provided.
+Once the application is running, you can interact with the document management system via the provided API endpoints. Features like document summarization, Q&A, and search capabilities will be available based on the inputs provided.
